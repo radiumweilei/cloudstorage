@@ -52,3 +52,24 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+#### add by wei lei 2014-12-10
+.settings/
+build/
+classes/
+lib/
+logs/
+target/
+WebContent/
+.classpath
+*.swp
+.project
+/**/*.log
+/**/*.err
+*.iml
+hs_err_pid*
+.idea/
+/**/*.pyc
+*.pyc
+/**/*.DS_Store
